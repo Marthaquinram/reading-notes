@@ -5,7 +5,7 @@
 
 My name is *Martha* and this is what **Growth Mindset** means to me.
  
- ### GROWTH MINDSET
+ ## GROWTH MINDSET
  
  ~~Is VERY easy.~~
  Learning to have a growth mindset can be challenging at first. We are often scared to fail, and learning something new means you fail... A LOT.

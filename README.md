@@ -1,7 +1,7 @@
 # My Notes
 
 
-# Hello, Everyone
+# Hi Everyone
 
 My name is *Martha* and this is what **Growth Mindset** means to me.
  

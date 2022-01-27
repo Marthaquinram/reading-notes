@@ -18,10 +18,10 @@
 - Root Cause Resolution
 - Decision Making
 
-1. Creativity - is one of my weakness and areas of growth. It often takes me some time to really think of ideas on the spot, I usually have to sit on something for a while to spark up an idea that could be useful. This is something Im working hard towards improving.
+1. Creativity - is one of my weakness and areas of growth. It often takes me some time to really think of ideas on the spot, I usually have to sit on something for a while to spark up an idea that could be useful. The way Im planing to work on this is by communicating ideas with others on the team and getting feedback on it.
 
 
-2. Root Cause Resolution - Finding the root of the issue can take sometime and often times I dont see the root of the issue right away and this could cause issues if its a time sensitve situation.
+2. Root Cause Resolution - Finding the root of the issue can take sometime and often times I dont see the root of the issue right away and this could cause issues if its a time sensitve situation. I will work on this by seeking guideance and brainstorming resolutions with others on the team.
 
-3. Decision Making - I have struggled to make decision for a lot of different reasons, and this is also one of the top things I want to work on. My biggest hurdle is the fear of making a bad decision that could potentially ruin or break something so bad that it impacts others based on that one decision.
+3. Decision Making - I have struggled to make decision for a lot of different reasons, and this is also one of the top things I want to work on. My biggest hurdle is the fear of making a bad decision that could potentially ruin or break something so bad that it impacts others based on that one decision. I plan on improving my decision making by asking an expert on the task at hand how to approach an issue as well as making a plan, thinking it through and laying something out can help with the bigger picture and seeing possible solutions to make a decision.
 

@@ -23,3 +23,15 @@ Here are the syntax I have learned so far.
           - ~~Strikethrough~~ Using ~~ ~~
             - **Bold _and_ nested italic** Using ** ** and _ _
                - ***All bold and italic*** Using *** ***
+
+3. List
+    - Making a list and checking it twice. This is how to make a list. You can make an unordered list by preceding one or more lines of text with syntax of - or *.
+    - Hi there
+    * Hello there
+    
+ You can even make a numbered list too by simply using numbers.
+ 
+    1. California
+    2. Washington
+    3. Spain
+All in all this can save you so much time and make things easy to read.

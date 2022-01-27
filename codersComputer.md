@@ -12,7 +12,7 @@
 
 *Listening* - Active listening will help with understanding someone elses perspective or feedback theyre giving. Maintaining eye contact and non verbal gestures show you are engaged in the conversation. This allows you to understand the message that is being conveyed accross the board and this will help in a collaborative setting as well as one one interation. 
 
-& dragonfly
+` dragonfly `
 
 
 ## **Top 3 areas of growth**

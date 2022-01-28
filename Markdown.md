@@ -36,3 +36,8 @@ Here are the syntax I have learned so far.
     3. Spain
     
 Markdown gets rid of all the distractions of a formatting toolbar and mouse clicks by helping you focus on your writing without lifting your fingers off of the keyboard. All in all this can save you so much time and make things easy to read.
+
+Terminal
+
+The commands I learned in
+

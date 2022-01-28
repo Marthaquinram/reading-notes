@@ -14,7 +14,7 @@
 
 
 
-## **Top 3 areas of growth**
+## **Top 3 areas of Growth**
 
 - Creativity
 - Root Cause Resolution
@@ -26,4 +26,5 @@
 2. Root Cause Resolution - Finding the root of the issue can take sometime and often times I dont see the root of the issue right away and this could cause issues if its a time sensitve situation. I will work on this by seeking guideance and brainstorming resolutions with others on the team.
 
 3. Decision Making - I have struggled to make decision for a lot of different reasons, and this is also one of the top things I want to work on. My biggest hurdle is the fear of making a bad decision that could potentially ruin or break something so bad that it impacts others based on that one decision. I plan on improving my decision making by asking an expert on the task at hand how to approach an issue as well as making a plan, thinking it through and laying something out can help with the bigger picture and seeing possible solutions to make a decision.
+
 

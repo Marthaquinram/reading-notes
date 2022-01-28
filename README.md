@@ -7,5 +7,5 @@ My name is Martha, I'm originally from Los Angeles, CA now residing in Seattle, 
 # Table of Contents
 
 - [Markdown](https://marthaquinram.github.io/reading-notes/Markdown)
-- [Growth Mindset](https://marthaquinram.github.io/reading-notes/)
-
+- [Growth Mindset](https://marthaquinram.github.io/reading-notes/Growthmindset)
+- [Proficiencies](https://marthaquinram.github.io/reading-notes/Proficiencies)

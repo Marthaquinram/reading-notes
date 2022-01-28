@@ -39,5 +39,11 @@ Markdown gets rid of all the distractions of a formatting toolbar and mouse clic
 
 Terminal
 
-The commands I learned in
+The commands I learned for the terminal are
+- git clone - and then you enter the repo youre cloning.
+- git status- to see what changes have been made
+- git add . - to add all files you made changes to
+- git commit -m "message here" - is letting the cloud know what changes you made
+- git push origin main - this is what sends everything back to cloud to update so you have the latest version of what you've done.
+
 

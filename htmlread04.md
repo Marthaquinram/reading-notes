@@ -1,4 +1,4 @@
-# HTML Notes Lab 4
+# HTML Notes Read 04
 
 ## WireFrame
 Wireframes is a clear visual representation of a web page or layout.  Wireframes can be drawn with pencil and paper, or with a whiteboard. Using pencil and paper or a whiteboard allows for easy corrections and modifications. This allows for testing at every stage of the design and ideation. Project managers and web designers use wireframes to capture what a client is requesting their website/mobile app to look like. once the designing is completed and the end user is satisfy, this gets distributed to the software developers to start working on the coding side of things to make the website come to life. during this stage is where we find out what works and what doesnt.

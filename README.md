@@ -10,3 +10,4 @@ My name is Martha, I'm originally from Los Angeles, CA now residing in Seattle, 
 - [Growth Mindset](https://marthaquinram.github.io/reading-notes/Growthmindset)
 - [Proficiencies](https://marthaquinram.github.io/reading-notes/Proficiencies)
 - [Revisions and the cloud](https://marthaquinram.github.io/reading-notes/RevisionsandtheCloud)
+- [HTML Notes](https://marthaquinram.github.io/reading-notes/htmlread04)

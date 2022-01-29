@@ -15,35 +15,35 @@ An HTLM tag is another word or letter surrounded by brackets like < and >. You u
 
 Examples:
 1. HTML is the root element. This is the root of the tree of elements that make up the web page.
-<html> Hi (all other page elements go here)
-</html>
+< html> Hi (all other page elements go here)
+</ html>
 
 2. The document Head
 
-<head> Hello </head> This contains info about the web page that was created. Elements that can go inside the head are things like Titles, links, images.
+< head> Hello </ head> This contains info about the web page that was created. Elements that can go inside the head are things like Titles, links, images.
 
-Title, this will be The web page title<title> Llamas and Alpacas of the world </title>.
+Title, this will be The web page title< title> Llamas and Alpacas of the world </ title>.
 
 3. The page's content. This is where all your images and text will go, this is the body of the page.
-<body> content of pages displayed here </body>
+< body> content of pages displayed here </ body>
 
 4. A Link.
 Links allow you to enter URLs that can lead you to other pages and content. 
-<a>www.ilovealpacas.com</a>
+< a>www.ilovealpacas.com</ a>
 
 5. An image
 Img elements allow you to add photos to your web page. in order to insert and image you must obtain the image address first and you can add an alt attribute after to show the title of image if it cant be displayed.
-<img src="alpacaphotos . jpg" alt="alpacas">
+< img src="alpacaphotos . jpg" alt="alpacas" >
 
 Now put it all together
 
-<html>
-  <head>
-    <title>lamas and Alpacas of the world</title>
-    <link > helloalapacas link here
-    </link >
-  </head>
-<body> content of pages displayed her 
-<img scr= "<img src= "photo here" >
-</body>
-</html>
+< html >
+  < head >
+    < title >lamas and Alpacas of the world < / title >
+    < link > helloalapacas link here
+    </ link >
+  </ head >
+< body> content of pages displayed her 
+< img scr= "< img src= "photo here" >
+</ body>
+</ html>

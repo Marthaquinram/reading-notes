@@ -9,4 +9,4 @@ My name is Martha, I'm originally from Los Angeles, CA now residing in Seattle, 
 - [Markdown](https://marthaquinram.github.io/reading-notes/Markdown)
 - [Growth Mindset](https://marthaquinram.github.io/reading-notes/Growthmindset)
 - [Proficiencies](https://marthaquinram.github.io/reading-notes/Proficiencies)
-- [revisions and the cloud](https://marthaquinram.github.io/reading-notes/RevisionsandtheCloud)
+- [Revisions and the cloud](https://marthaquinram.github.io/reading-notes/RevisionsandtheCloud)

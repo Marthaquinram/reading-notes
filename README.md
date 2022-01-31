@@ -12,4 +12,4 @@ My name is Martha, I'm originally from Los Angeles, CA now residing in Seattle, 
 - [Revisions and the cloud](https://marthaquinram.github.io/reading-notes/RevisionsandtheCloud)
 - [HTML Notes](https://marthaquinram.github.io/reading-notes/htmlread04)
 - [CSS Notes](https://marthaquinram.github.io/reading-notes/css)
-- [Javascript notes](https://marthaquinram.github.io/reading-notes/javascript)
+- [Javascript notes](https://marthaquinram.github.io/reading-notes/Javascript)

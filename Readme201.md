@@ -1,7 +1,8 @@
 # Code 201 Reading Notes
 
- ## Table of Contents
-- [Code-01]9
+## Table of Contents
+
+- [Class-01](https://marthaquinram.github.io/reading-notes/Class-01)
 
 
 

@@ -18,3 +18,8 @@ My name is Martha, I'm originally from Los Angeles, CA now residing in Seattle, 
 - [Javascript notes](https://marthaquinram.github.io/reading-notes/Javascript)
 - [Program JavaScript](https://marthaquinram.github.io/reading-notes/programjs)
 
+# Code 201 Reading Notes
+
+## Table of Contents
+
+- [Class-01](https://marthaquinram.github.io/reading-notes/Class-01)

@@ -59,5 +59,28 @@ HTML describes the Structure of the pages
 - Using an id or class attributes on the < div> elements makes it so CSS can be used.
 - use a closing < /div> tag.
 
-### Groupt text & Elemenets inline
--
+### Grouping Text & Elemenets Inline
+- The < span> tag is an inline container used to mark up a part of a tex or a part of a document.
+- < span> is commonly used for controling the appearance of the content using CSS.
+- Usually seen with class or id attributes, explain the purpose of this < span> elements, so that CSS styles can be applied to elemenets that have specifi values for these attributes.
+
+### iframes
+- < iframe> tags specifies an inline frame, and its used to embed another document within the current HTML doc.
+- src - specifies the URL of the page shown in frame.
+- height - attribute specifies the height of the iframe in pixels.
+- width- attribute specifies the width in pixels
+
+#### Meta
+- < meta> tags defines metadata about the HTML document. (Information) about.
+- The meta tag always go inside the < head> element, and used to specify character set, page description, keywords , author of the doc and view port setting.
+
+### Escape Characters
+- < less-than sign,
+- > greater-than sign
+- & ampersand sign
+- "" Quotation mark
+- ' left side signle quote
+- ' right side single quote
+- " left double quote
+- " right double quote
+- x multiplication sign

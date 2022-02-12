@@ -84,3 +84,7 @@ HTML describes the Structure of the pages
 - " left double quote
 - " right double quote
 - x multiplication sign
+
+### HTML5
+"HTML5 introduces a new set of elements that allow you to divide up the parts of the page.The names of these elements indicate the kind of content you will find in them. They are still subjext to change, but that has not stopped many web page authors from using them already." (HTML&CSS design and build websites, page 432)[Jon Ducket]
+ 

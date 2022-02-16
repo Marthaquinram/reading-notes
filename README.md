@@ -23,3 +23,4 @@ My name is Martha, I'm originally from Los Angeles, CA now residing in Seattle, 
 ## Table of Contents
 
 - [Class-01](https://marthaquinram.github.io/reading-notes/Class-01)
+- [Class-02](https://marthaquinram.github.io/reading-notes/Class-02)

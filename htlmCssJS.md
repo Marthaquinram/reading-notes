@@ -104,42 +104,65 @@ An external style sheet can be written in any text editor and must be saved with
 
 ### Statements
 
-- 
--
--
+- Statemenst are instructions and each one starts a on a new line and ends with a semicolon. Semicolons tell javascript interpreter when a step is over, mean they should more to the next step.
+- Javascript is case sensitive, EX: hourNow is different than HourNow or HOURNOW.
+- Statements can be surrounded by curly brackets {} <-- that is considered a **code block**. not followed by semicolon.
 
 
 
 ### Comments
 
--
--
--
+- JavaScript comments can be used to explain JavaScript code, and help make it more readable.
+- Comments can also be used to prevent execution when testing alternative code.
+- Single Line Comments start with //
+- any text inbetween // and the end of the line will be ignored by Javascript. wont run code.
 
 ### Variables
 
--
--
--
+- Are containers for storing data values.
+- Variable means anything that can vary.
+
 
 ### How to declare Variables
 
--
--
--
+- 4 ways to declare a variable 
+  - var
+  - let
+  - const
+- in order to use the variable you must give it a name
+var - variable keyword and quantity; - variable name
+- if a variable name is more than one word then its written in camelCase - first word is lowercase followed by the second word with the first letter capitalized.
+
+### Rules for Naming variables
+
+1. "The name must begind with a letter, $ sign, or an underscore _" 
+2. "The name can contain letters, numbers, $ sign, or an underscore _. Note that you must not use a dash - or a period . in a variable name.
+3. "You cannot use **keywords** or **reserved** words. Keywords are special words that tell the interpreter to do something. For Ex, var is a keyword used to declare a variable. Reserved words are ones that may be used in a furture version of JavaScript."
+4. "All variables are case sensitive, so score and Score would be different variable names, but it is bad practive to create two variables that have the same name using different cases."
+5. "Use a name that describes the kind of information that the variable stores. For example, firstName might be used to store a persons name, lastName for their last name, and age for their age."
+6. "If your variable name is made up of more than one word, use a capital letter for the first letter of everyword *after* the first word. For example, firstName rather than firstname (this is referred to as camel case). You can also use the underscore between each word (you cannot use a dash)."
+[JavaScript & JQuerey Interactive front-end web developtment Chapter 2 page 69.](Jon Duckett)
 
 ### How to assign Variables value
 
--
--
--
+- When you created a variable name then you assign the value to that variable. 
+- assignment operator is = <--- the equal sign. this is telling the variable name that it equals the value.
+  - this allows you to use the variable by its name.
+- if you dont assign a value to a variable then youll get the error message of value is undefined.
+
+
+
 
 # Data Types
 
+- strings - are letters or numbers with in quotation marks, whether its double or since quotes "" ''. as long as the closing quotation as the beginning one. EX: 'Hey Martha', or "Hey Martha"
+- boolean - represents one of two values, true or false.
+  - Yes / No
+  - On/ Off
+  - True / False
+  - Boolean(10 > 9)
+- Numeric - Numbers
 - Objects / arrays
-- strings
-- boolean
-- numbers
 
 ## What are data types
 

@@ -31,4 +31,17 @@ Sonmez, J (2013) [Simple Programmer]. https://simpleprogrammer.com/understanding
 - separate each key from value using colon. separate each property and method with a comma.
 
 ### Accessing an Object and Dot Notation.
--  access the property or methods
+-  access the property or methods of an object using dot notation.
+- also access properties using square brackets [ ].
+- Ex: var hotelName = hotel . name;
+hotel is the object and name; is tje property/method name
+the period is called member operator.
+
+### DOM Tree
+- is a model of a web page.
+- Dom tree is stored in the browsers memory.
+- it consist of four main types of nodes.
+- document node - every element and attribute  and text in the HTML is represented by its own DOM node. at the top of the tree a document node is added.
+- Element node - Html elements describe the structure of an HTML Page
+
+Will update notes with more info once i learn more in class

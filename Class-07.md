@@ -70,3 +70,9 @@ hotel - is the object, . is the member operator name - is the property name = is
 }
 - let quayHotel = new Hotel('Quay', 40, 25);
 - let parkHotel = new Hotel('Park', 120,77);
+
+### Nested Loop
+Nested Loop, best way to think of it.
+
+The inner loop is the minute hand and the outer loop is the hour hand, the inner loop has to run completely before the ouster hand can loop.
+the outter loop is going  to move slower.

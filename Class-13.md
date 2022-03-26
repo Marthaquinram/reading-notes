@@ -3,3 +3,18 @@
 - HTML5 Storeage is a way for web pages to store named key/value pairs locally, within the client web browser. Data persists even after you navigate away from the web site.
 - 
 - 
+- in more recent times you can just type in local storage as a global variable. 
+- local storage lets us keep data per user per browser without knowing anything about them. it changes from device to device. from phone to pc.
+- domain name is the www;.google.com within the https. 
+-  local storage set items has a key and a value. the key is string and the value is a string
+- local storage .age ('age', '28)
+- it would read storage ( age: '22', name: 'martha', Length: 2)
+
+- remove item or use clear to get rid of that property (inside the paraethsis)
+- in local storage we can store keys and strings, if you want to display a number you can do parseInt(localStorage.getitem)
+- use Number instead of parseInt when trying to get an actual number.
+- get item and set item need to be the same.
+
+
+
+- coffee.drinks = JSON.parse(localStorage.getItem("coffeestand"))??[];

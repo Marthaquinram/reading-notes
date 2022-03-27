@@ -35,3 +35,5 @@ My name is Martha, I'm originally from Los Angeles, CA now residing in Seattle, 
 - [Class-11](https://marthaquinram.github.io/reading-notes/Class-11)
 - [Class-12](https://marthaquinram.github.io/reading-notes/Class-12)
 - [Class-13](https://marthaquinram.github.io/reading-notes/Class-13)
+- [Class-14a](https://marthaquinram.github.io/reading-notes/Class-14a)
+- [Class-14b](https://marthaquinram.github.io/reading-notes/Class-14b)

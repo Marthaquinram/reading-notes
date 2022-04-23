@@ -1,6 +1,6 @@
-# Notes
+# Reading Notes
 
-## This will be where I store my notes for class.
+## This is where all of my 301 topic and assignment notes will be stored.
 
 ### Table of Contents
-- [Class-01](https://marthaquinram.github.io/reading-notes/301Notes)
+- [Class 301 Notes](https://marthaquinram.github.io/reading-notes/301Notes)

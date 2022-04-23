@@ -40,4 +40,4 @@ My name is Martha, I'm originally from Los Angeles, CA now residing in Seattle, 
 
 
 # Code 301 Reading Notes
-- [301 Class Notes](https://marthaquinram.github.io/reading-notes/301notes)
+- [301 Class Notes](https://marthaquinram.github.io/reading-notes/Class301Notes)

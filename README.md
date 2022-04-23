@@ -2,7 +2,7 @@
 
 About Me
 
-My name is Martha, I'm originally from Los Angeles, CA now residing in Seattle, WA. I'm excited to become a software developer, and learn as much as I can. I currently work for a credit union where Ive been working in finances for almost 6 years. I want to prove to myself that I can be successful in the tech world and break down any myths/stereotypes in regard to females in the tech industry. I look forward to learn and soaking up all the new knowledge and making a name for myself in the tech world.
+My name is Martha, I am 28 years old, currently residing in Seattle, WA. Prior to switching careers, I was a retail support specialist in finances where I assisted more than 100 personal bankers across the credit union with day-to-day tasks. While this career has taught me so much, I am excited to take a deeper dive into the world of software development.
 
  ## Code 102 Reading Notes
 

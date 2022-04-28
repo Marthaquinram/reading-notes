@@ -9,14 +9,14 @@ My name is Martha, I am 28 years old, currently residing in Seattle, WA. Prior t
 ### Table of Contents
 
 
-- [Markdown](https://marthaquinram.github.io/reading-notes/Markdown)
-- [Growth Mindset](https://marthaquinram.github.io/reading-notes/Growthmindset)
-- [Proficiencies](https://marthaquinram.github.io/reading-notes/Proficiencies)
-- [Revisions and the cloud](https://marthaquinram.github.io/reading-notes/RevisionsandtheCloud)
-- [HTML Notes](https://marthaquinram.github.io/reading-notes/htmlread04)
-- [CSS Notes](https://marthaquinram.github.io/reading-notes/css)
-- [Javascript notes](https://marthaquinram.github.io/reading-notes/Javascript)
-- [Program JavaScript](https://marthaquinram.github.io/reading-notes/programjs)
+- [Markdown](https://marthaquinram.github.io/reading-notes/Class-102/Markdown)
+- [Growth Mindset](https://marthaquinram.github.io/reading-notes/Class-102/Growthmindset)
+- [Proficiencies](https://marthaquinram.github.io/reading-notes/Class-102/Proficiencies)
+- [Revisions and the cloud](https://marthaquinram.github.io/reading-notes/Class-102/RevisionsandtheCloud)
+- [HTML Notes](https://marthaquinram.github.io/reading-notes/Class-102/htmlread04)
+- [CSS Notes](https://marthaquinram.github.io/reading-notes/Class-102/css)
+- [Javascript notes](https://marthaquinram.github.io/reading-notes/Class-102/Javascript)
+- [Program JavaScript](https://marthaquinram.github.io/reading-notes/Class-102/programjs)
 
 ## Code 201 Reading Notes
 

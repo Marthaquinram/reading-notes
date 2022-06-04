@@ -52,3 +52,5 @@ My name is Martha, I am 28 years old, currently residing in Seattle, WA. Prior t
 - [301-Class10](https://marthaquinram.github.io/reading-notes/Class-301/301-Class10)
 - [301-Class11](https://marthaquinram.github.io/reading-notes/Class-301/301-Class11)
 - [301-Class12](https://marthaquinram.github.io/reading-notes/Class-301/301-Class12)
+- [301-Class13](https://marthaquinram.github.io/reading-notes/Class-301/301-Class13)
+- [301-Class14](https://marthaquinram.github.io/reading-notes/Class-301/301-Class14)

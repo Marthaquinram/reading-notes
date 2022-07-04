@@ -4,10 +4,9 @@ About Me
 
 My name is Martha, I am 28 years old, currently residing in Seattle, WA. Prior to switching careers, I was a retail support specialist in finances where I assisted more than 100 personal bankers across the credit union with day-to-day tasks. While this career has taught me so much, I am excited to take a deeper dive into the world of software development.
 
- ## Code 102 Reading Notes
+## Code 102 Reading Notes
 
 ### Table of Contents
-
 
 - [Markdown](https://marthaquinram.github.io/reading-notes/Class-102/Markdown)
 - [Growth Mindset](https://marthaquinram.github.io/reading-notes/Class-102/Growthmindset)
@@ -38,8 +37,10 @@ My name is Martha, I am 28 years old, currently residing in Seattle, WA. Prior t
 - [Class-14a](https://marthaquinram.github.io/reading-notes/Class-201/Class-14a)
 - [Class-14b](https://marthaquinram.github.io/reading-notes/Class-201/Class-14b)
 
-
 # Code 301 Reading Notes
+
+### Table of Contents
+
 - [301-Class01](https://marthaquinram.github.io/reading-notes/Class-301/301-Class01)
 - [301-Class02](https://marthaquinram.github.io/reading-notes/Class-301/301-Class02)
 - [301-Class03](https://marthaquinram.github.io/reading-notes/Class-301/301-Class03)
@@ -55,3 +56,9 @@ My name is Martha, I am 28 years old, currently residing in Seattle, WA. Prior t
 - [301-Class13](https://marthaquinram.github.io/reading-notes/Class-301/301-Class13)
 - [301-Class14](https://marthaquinram.github.io/reading-notes/Class-301/301-Class14)
 - [301-Class15](https://marthaquinram.github.io/reading-notes/Class-301/301-Class15)
+
+# Code 401 - Advanced Software Development Reading Notes
+
+### Table of Contents
+
+- [401-Class01](https://marthaquinram.github.io/reading-notes/Class-301/401-Class01)

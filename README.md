@@ -61,5 +61,5 @@ My name is Martha, I am 28 years old, currently residing in Seattle, WA. Prior t
 
 ### Table of Contents
 
-- [401-Prep-Engineering-Readings](https://marthaquinram.github.io/reading-notes/Class-301/401-PrepEngineeringReadings)
+- [401-Prep-Engineering-Readings](https://marthaquinram.github.io/reading-notes/Class-401/401-PrepEngineeringReadings)
 - [401-Class01](https://marthaquinram.github.io/reading-notes/Class-301/401-Class01)

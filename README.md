@@ -65,4 +65,4 @@ My name is Martha, I am 28 years old, currently residing in Seattle, WA. Prior t
 - [401-PrepGrowthMindset](https://marthaquinram.github.io/reading-notes/Class-401/401-PrepGrowthMindset)
 - [401-SQLPractice](https://marthaquinram.github.io/reading-notes/Class-401/401-SQLPractice)
 - [401-Class01](https://marthaquinram.github.io/reading-notes/Class-401/401-Class01)
-  - [401-Class02](https://marthaquinram.github.io/reading-notes/Class-401/401-Class02)
+- [401-Class02](https://marthaquinram.github.io/reading-notes/Class-401/401-Class02)

@@ -85,3 +85,4 @@ My name is Martha, I am 28 years old, currently residing in Seattle, WA. Prior t
 - [401-Class19](https://marthaquinram.github.io/reading-notes/Class-401/401-Class19)
 - [401-Class26](https://marthaquinram.github.io/reading-notes/Class-401/401-Class26)
 - [401-Class27](https://marthaquinram.github.io/reading-notes/Class-401/401-Class27)
+- [401-Class28](https://marthaquinram.github.io/reading-notes/Class-401/401-Class28)
